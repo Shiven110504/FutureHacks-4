@@ -10,7 +10,7 @@ FutureHacks Four is an annual, international online hackathon that is free to at
 
 - **Director:** Managing a dedicated team of 7 students, overseeing sponsorships, arranging informative workshops, chairing meetings, and enforcing project deadlines.
 - **Marketing Head:** Orchestrating the marketing campaign, inviting esteemed college faculties as judges, and delegating D-Day responsibilities.
-- **Technical Lead:** Developing the frontend of the [FutureHacks Four website](https://futurehacks.net/), overseeing the design of social media posts, and ensuring all the technical infrastructure is in place for hosting the hackathon online.
+- **Technical Lead:** Developing the frontend of the [FutureHacks Four website](https://futurehacks.net/) (now updated for FutureHacks Five), overseeing the design of social media posts, and ensuring all the technical infrastructure is in place for hosting the hackathon online.
 
 ## Website Features
 
